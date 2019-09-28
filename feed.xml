@@ -3,7 +3,7 @@
     <title>Tester SEO</title>
     <link href="https://killaseo.github.io/sites/feed.xml" rel="self" />
     <link href="https://killaseo.github.io/sites" />
-    <updated>2019-09-28T18:47:26+02:00</updated>
+    <updated>2019-09-28T19:03:09+02:00</updated>
     <author>
         <name>otopozycjonowanie</name>
     </author>
@@ -17,15 +17,26 @@
         <link href="https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html"/>
         <id>https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html</id>
 
-        <updated>2019-09-28T18:33:34+02:00</updated>
+        <updated>2019-09-28T19:02:57+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://killaseo.github.io/sites/media/posts/1/GithubPages.png" alt="" />
                     Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś mój wpis o tworzeniu repozytorium na stronach GitHub. Chcę Ci pokazać, że tak, to działa!!!
+                    <img src="https://killaseo.github.io/sites/media/posts/1/GithubPages.png" alt="" />
+                <p>Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś mój wpis o tworzeniu repozytorium na stronach GitHub. Chcę Ci pokazać, że tak - to działa!!!</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://killaseo.github.io/sites/media/posts/1/gallery/Publii-sukces.png" ><img src="https://killaseo.github.io/sites/media/posts/1/gallery/Publii-sukces-thumbnail.png" alt="Publii synchronizacja" width="768" height="697"></a>
+<figcaption class="gallery-description">Publii synchronizacja</figcaption>
+</figure>
+</div>
+<p>Stronę opublikowałem parę dni przed ukazaniem się artykułu na techformator.pl</p>
+<p>Wszystko przebiegło zgodnie z planem. Dlatego widzisz tę stronę.</p>
+<p>Może dla zaspokojenia ciekawości, przeprowadzimy kilka testów? Postaram się to zrobić w kolejnych artykułach lub czymś co je będzie przypominało...</p>
+<p> </p>
             ]]>
         </content>
     </entry>

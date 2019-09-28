@@ -14,14 +14,15 @@
             "url": "https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html",
             "title": "Witaj użytkowniku techformator.pl",
             "summary": "Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś&hellip;",
-            "content_html": "Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś mój wpis o tworzeniu repozytorium na stronach GitHub. Chcę Ci pokazać, że tak, to działa!!!",
+            "content_html": "<p>Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś mój wpis o tworzeniu repozytorium na stronach GitHub. Chcę Ci pokazać, że tak - to działa!!!</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://killaseo.github.io/sites/media/posts/1/gallery/Publii-sukces.png\" ><img src=\"https://killaseo.github.io/sites/media/posts/1/gallery/Publii-sukces-thumbnail.png\" alt=\"Publii synchronizacja\" width=\"768\" height=\"697\"></a>\n<figcaption class=\"gallery-description\">Publii synchronizacja</figcaption>\n</figure>\n</div>\n<p>Stronę opublikowałem parę dni przed ukazaniem się artykułu na techformator.pl</p>\n<p>Wszystko przebiegło zgodnie z planem. Dlatego widzisz tę stronę.</p>\n<p>Może dla zaspokojenia ciekawości, przeprowadzimy kilka testów? Postaram się to zrobić w kolejnych artykułach lub czymś co je będzie przypominało...</p>\n<p> </p>",
+            "image": "https://killaseo.github.io/sites/media/posts/1/GithubPages.png",
             "author": {
                 "name": "otopozycjonowanie"
             },
             "tags": [
             ],
             "date_published": "2019-09-28T18:31:40+02:00",
-            "date_modified": "2019-09-28T18:33:34+02:00"
+            "date_modified": "2019-09-28T19:02:57+02:00"
         }
     ]
 }
