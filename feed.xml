@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tester SEO</title>
+    <link href="https://killaseo.github.io/sites/feed.xml" rel="self" />
+    <link href="https://killaseo.github.io/sites" />
+    <updated>2019-09-28T18:33:57+02:00</updated>
+    <author>
+        <name>otopozycjonowanie</name>
+    </author>
+    <id>https://killaseo.github.io/sites</id>
+
+    <entry>
+        <title>Witaj użytkowniku techformator.pl</title>
+        <author>
+            <name>otopozycjonowanie</name>
+        </author>
+        <link href="https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html"/>
+        <id>https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html</id>
+
+        <updated>2019-09-28T18:33:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś mój wpis o tworzeniu repozytorium na stronach GitHub. Chcę Ci pokazać, że tak, to działa!!!
+            ]]>
+        </content>
+    </entry>
+</feed>

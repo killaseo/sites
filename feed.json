@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tester SEO",
+    "description": "",
+    "home_page_url": "https://killaseo.github.io/sites",
+    "feed_url": "https://killaseo.github.io/sites/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "otopozycjonowanie"
+    },
+    "items": [
+        {
+            "id": "https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html",
+            "url": "https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html",
+            "title": "Witaj użytkowniku techformator.pl",
+            "summary": "Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś&hellip;",
+            "content_html": "Jeśli odwiedzasz tę stronę z ciekawości, to witam Cię serdecznie. Prawdopodobnie czytałeś mój wpis o tworzeniu repozytorium na stronach GitHub. Chcę Ci pokazać, że tak, to działa!!!",
+            "author": {
+                "name": "otopozycjonowanie"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-28T18:31:40+02:00",
+            "date_modified": "2019-09-28T18:33:34+02:00"
+        }
+    ]
+}
