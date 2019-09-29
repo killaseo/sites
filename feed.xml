@@ -3,12 +3,67 @@
     <title>Tester SEO</title>
     <link href="https://killaseo.github.io/sites/feed.xml" rel="self" />
     <link href="https://killaseo.github.io/sites" />
-    <updated>2019-09-29T21:23:14+02:00</updated>
+    <updated>2019-09-29T22:14:24+02:00</updated>
     <author>
         <name>otopozycjonowanie</name>
     </author>
     <id>https://killaseo.github.io/sites</id>
 
+    <entry>
+        <title>Test SEO - first link count</title>
+        <author>
+            <name>otopozycjonowanie</name>
+        </author>
+        <link href="https://killaseo.github.io/sites/test-seo-first-link-count.html"/>
+        <id>https://killaseo.github.io/sites/test-seo-first-link-count.html</id>
+
+        <updated>2019-09-29T22:14:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://killaseo.github.io/sites/media/posts/3/killaseo-pl.png" alt="SEO test - pozycjonowanie stron internetowych" />
+                    Na tej stronie wykonamy krótki, bo krótki test tzw. first link count.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://killaseo.github.io/sites/media/posts/3/killaseo-pl.png" alt="SEO test - pozycjonowanie stron internetowych" />
+                <p>Na tej stronie wykonamy krótki, bo krótki test tzw. first link count. Test ten był wykonywany przez Martę Gryszko znaną lepiej jako Lexy, na jej stronach testowych.</p>
+<p>Z racji braku zbyt rozwiniętej struktury stron. Na testy na razie wyznaczyłem 4 strony, z których 3 będą upublicznione. 4-ta będzie - jeśli się pojawi w SERPach - ale przede mną długa droga. I będzie miała większy związek z UX. Reszta stron będzie zajmowała się albo technicznym SEO albo SEO copywritingiem. Wnioski będę starał się upubliczniać, ale również będziecie mieli okazję podpatrzyć, co się dzieje z tymi stronami i sami będziecie mogli wyciągać własne wnioski.</p>
+<p>Mój test nie będzie zbyt skomplikowany, Lexy przeprowadziła go na 3 stronach jeśli dobrze pamiętam. My sprawdzimy czy ta metoda z roku 2012 lub 2013 w ogóle ma rację bytu w 2019 roku.<br><a href="https://www.lexy.com.pl/blog/first-link-counts" rel="nofollow">https://www.lexy.com.pl/blog/first-link-counts</a></p>
+<p>Dlatego zanim wrzucę tu linka do swojej głównej strony, sprawdzimy czy linki odnoszące się do sekcji na mojej głownej stronie, zostaną zliczone do puli linków, czy też zostaną przez roboty wyszukiwarki olane.</p>
+<p>My skupimy się na punkcie 7. testu Lexy</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://killaseo.github.io/sites/media/posts/3/gallery/killaseo-pl.png" ><img src="https://killaseo.github.io/sites/media/posts/3/gallery/killaseo-pl-thumbnail.png" alt="pozycjonowanie stron killaseo.pl" width="768" height="229"></a>
+<figcaption class="gallery-description">killaseo pozycjonowanie SEO</figcaption>
+</figure>
+</div>
+<p>Obecnie moja strona idealnie nadaje się do przeprowadzenia tego tesu, występuje tylko jedna podstrona z kilkoma sekcjami wewnętrznymi. Dlatego moja strona główna powinna dać się również wyszukać po całym zabiegu również na linki z sekcji które się zaindeksują.</p>
+<p>Dla pewności dodam, że żadna sekcja nie jest zaindeksowana...</p>
+<p>Być może aż do teraz <a href="#INTERNAL_LINK#/post/NaN" title="https://killaseo.pl/index.html#content1-1n" target="_blank" rel="noopener noreferrer">https://killaseo.pl/index.html#content1-1n</a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://killaseo.github.io/sites/media/posts/3/gallery/test-SEO-sekcja-1-link-counts.png" ><img src="https://killaseo.github.io/sites/media/posts/3/gallery/test-SEO-sekcja-1-link-counts-thumbnail.png" alt="SEO test" width="768" height="430"></a>
+<figcaption class="gallery-description">SEo test: brak sekcji w indeksie wyszukiwarki</figcaption>
+</figure>
+</div>
+<p>Dla pewności ustalmy anchor <a href="#INTERNAL_LINK#/post/null" title="https://killaseo.pl/index.html#content1-1n">pozycjonowanie stron </a>i tak przypuszczalnie nic się nie stanie, ale będzie zgdny z opisem sekcji</p>
+<p>Drugim linkiem jest <a href="#INTERNAL_LINK#/post/null" title="https://killaseo.pl/index.html#content1-1p">copywriting</a>, ale zobaczmy go w postaci czytego linka, i czy będą jakiekolwiek rezultaty widoczne po zapytaniu site?</p>
+<p>W tej chwili nic z tych rzeczy:</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://killaseo.github.io/sites/media/posts/3/gallery/SEOtest2.png" ><img src="https://killaseo.github.io/sites/media/posts/3/gallery/SEOtest2-thumbnail.png" alt="SEO test 2" width="768" height="460"></a>
+<figcaption class="gallery-description">first link count 2019 działa?</figcaption>
+</figure>
+</div>
+<p> </p>
+<p><a href="#INTERNAL_LINK#/post/null" title="https://killaseo.pl/index.html#content1-1p">https://killaseo.pl/index.html#content1-1p  </a></p>
+<p>Na samym końcu postaram się otrzymać linka brandowego.</p>
+<p>W całym tym misz maszu o to konkretnie chodzi, jeśli u mnie zadziała - zadziała również u Was. Oczywiście pozostaje kwestia znacznego upływu czasu od pierwszych testów tej metody, dlatego - pytanie pozostaje otwarte Czy w ogóle zadziała?</p>
+<p>Mam nadzieję, że odpowiedzi otrzymamy wkrótce...</p>
+<p>Pozdrawiam </p>
+<p><a href="#INTERNAL_LINK#/post/null" title="https://killaseo.pl">killaseo.pl</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test SEO anchora z javascript</title>
         <author>
