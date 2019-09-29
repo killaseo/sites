@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://killaseo.github.io/sites/test-seo-anchora-z-javascript.html",
+            "url": "https://killaseo.github.io/sites/test-seo-anchora-z-javascript.html",
+            "title": "Test SEO anchora z javascript",
+            "summary": "Czas start. Do czasu pojawienia się artykułu na techformator.pl staram się przygotować&hellip;",
+            "content_html": "<p>Czas start. Do czasu pojawienia się artykułu na techformator.pl staram się przygotować konkretny materiał odpowiadający na konkretne pytania. Domniemam, że trafiłeś tu ze względu na publikację napisaną przeze mnie i odnalazłeś tę stronę ze zdjęcia zamieszczonego na techformatorze. Nie chcę tej strony po prostu tak zostawić. I przyznam szczerze, że od jakiegoś bliżej nieokreślonego czasu, tworzę program, który ma już dawno powinien ujrzeć światło dzienne, ale z jakiegoś powodu po prostu nie wyszło. </p>\n<p>W związku z jego powstawaniem, testowałem wiele skryptów javascript. W końcu zmodyfikowałem jakiś prosty skrypcik, dodałem coś od siebie i włala. Sam program miał powstać w PHP i ewentualnie JS. Na tej stronie zrobimy test przekazania mocy z tego skryptu. </p>\n<p>Zobaczymy, którą stronę wybierze robot Googla, tym samym dowiemy się czy roboty wyszukiwarek tylko i wyłącznie potrafią renderować treść, czy może robią coś więcej... Wszystko zależy, która strona otrzyma backlinka...</p>\n<p>Również z tego testu dowiemy się czy skrypt będzie miał znaczenie czysto afiliacyjne, czy uda wykorzystać się go do konkretnych zadań SEO.</p>\n<p>Ponieważ nie ma co się rozpisywać załączam link do <a onclick=\"Function()\" id=\"myAnchor\" href=\"http://otopozycjonowanie.pl\">testowej strony</a> , na której prowadzę inne obserwacje. Wnioski z wszystkich testowych stron, mogę opublikować na kilku stronach takich jak techformator.pl, czy killaseo.pl</p>\n<p>Sam opis skryptu i skrypt wraz z tym testem znajdzie się napewno na stronie techformator.</p>\n<script>// <![CDATA[\nfunction myFunction() {\n    document.getElementById(\"myAnchor\").innerHTML = \"https://killaseo.pl\";\n    document.getElementById(\"myAnchor\").href = \"https://killaseo.pl\";\n    document.getElementById(\"myAnchor\").target = \"_blank\";\n}\n// ]]></script>\n<p> </p>",
+            "author": {
+                "name": "otopozycjonowanie"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-29T21:18:17+02:00",
+            "date_modified": "2019-09-29T21:18:17+02:00"
+        },
+        {
             "id": "https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html",
             "url": "https://killaseo.github.io/sites/witaj-uzytkowniku-techformatorpl.html",
             "title": "Witaj użytkowniku techformator.pl",
